@@ -1,4 +1,3 @@
-layout_spectrum: 0.342768277740106
 typography_spectrum: 0.11064796522259712
 color:
   brandStrength: 0.9601746136322618
@@ -11,4 +10,9 @@ color:
     - '#FF2D00'
     - '#FF8C00'
     - '#04756F'
+layout_spectrum: 0.342768277740106
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/304fd027-07f8-4dbb-ad30-f087ea2ccbb8.png
 name: MemoireLane.com
+favicon: null
+title: Your adventure in Yesterday starts here.
